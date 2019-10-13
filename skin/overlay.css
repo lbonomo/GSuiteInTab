@@ -1,9 +1,0 @@
-#gsuiteintab-calendar-button {
-  list-style-image:  url("chrome://gsuiteintab/skin/calendar.png");
-  -moz-image-region: rect(0px 24px 24px 0px);
-}
-
-#gsuiteintab-keep-button {
-  list-style-image:  url("chrome://gsuiteintab/skin/calendar.png");
-  -moz-image-region: rect(0px 24px 24px 0px);
-}
