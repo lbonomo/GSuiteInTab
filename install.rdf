@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
+
 <RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+
    <Description about="urn:mozilla:install-manifest">
-      <!-- properties -->
       <em:id>gsuiteintab@lucasbonomo.com</em:id>
       <em:version>0.1</em:version>
       <em:type>2</em:type>
@@ -12,9 +13,6 @@
       <em:developer>Lucas Bonomo</em:developer>
       <em:iconURL>chrome://gsuiteintab/skin/gsuite.png</em:iconURL>
       <em:homepageURL>https://lucasbonomo.com/thunderbird</em:homepageURL>
-
-      <!-- <em:optionsURL>chrome://gsuiteintab/content/options.xul</em:optionsURL>
-      <em:optionsType>3</em:optionsType> -->
 
       <em:targetApplication>
   			<Description>
