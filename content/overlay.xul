@@ -13,7 +13,7 @@
       type="button"
       tooltiptext="Abrir calentadrio"
       image="chrome://gsuiteintab/skin/calendar.png"
-      oncommand="gsuiteintab.ShowCalendar();"
+      oncommand="gsuiteintab.ShowCalendar(event);"
       />
 
       <toolbarbutton id="gsuiteintab-keep-button"
@@ -22,7 +22,7 @@
         type="button"
         tooltiptext="Abrir calentadrio"
         image="chrome://gsuiteintab/skin/keep.png"
-        oncommand="gsuiteintab.ShowKeep();"
+        oncommand="gsuiteintab.ShowKeep(event);"
         />
 
   </toolbarpalette>
