@@ -1,3 +1,0 @@
-content   gsuiteintab  content/
-skin      gsuiteintab  classic/1.0 skin/
-overlay   chrome://messenger/content/messenger.xul      chrome://gsuiteintab/content/overlay.xul
