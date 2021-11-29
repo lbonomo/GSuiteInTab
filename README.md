@@ -11,6 +11,9 @@ Thunderbird addons to open G Suite apps in a tab
 ![personalizar](media/personalizar.png)
 
 
+### 1.1.0
+Release date: 28/11/2021
+Now compatible with Thunderbird 91.*
 ### 0.3.0
 Now compatible with MailExtensions (Thunderbird 78.*)
 

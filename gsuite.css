@@ -4,6 +4,9 @@ body {
 }
 
 ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
   list-style-type: none;
   margin: 0;
   padding: 0.2rem 0.5rem;
@@ -13,26 +16,8 @@ li {
   padding: 0.1rem 0;
 }
 
-.row {
-  display: flex;
-}
-
-.cell {
-  width: 50px;
-  height: 50px;
-  padding: 0.2rem 0.5rem;
-}
-
-
 img {
   border: none;
-}
-
-a {
-  text-decoration: none;
-  color: #616161;
-}
-
-a:hover {
-  color: #1a1a1a;
+  width: 30px;
+  height: auto;
 }
